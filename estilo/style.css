@@ -63,3 +63,10 @@ section#redes-sociais img:hover{
     box-shadow: 5px 5px 10px rgba(0, 0, 0.623);
     transition: trasform .3s, border 1s;
 }
+
+
+section#redes-sociais {
+    position: absolute;
+    top: 20px;
+    right: 5px; 
+}
